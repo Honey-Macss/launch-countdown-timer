@@ -11,24 +11,31 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Purple: hsl(259, 100%, 65%)
-- Light red: hsl(0, 100%, 67%)
+- Grayish blue: hsl(237, 18%, 59%)
+- Soft red: hsl(345, 95%, 68%)
 
 ### Neutral
 
 - White: hsl(0, 0%, 100%)
-- Off white: hsl(0, 0%, 94%)
-- Light grey: hsl(0, 0%, 86%)
-- Smokey grey: hsl(0, 1%, 44%)
-- Off black: hsl(0, 0%, 8%)
+- Dark desaturated blue: hsl(236, 21%, 26%)
+- Very dark blue: hsl(235, 16%, 14%)
+- Very dark (mostly black) blue: hsl(234, 17%, 12%)
 
 ## Typography
 
 ### Body Copy
 
-- Font size (inputs): 32px
+- Font size: 14px
 
 ### Font
 
-- Family: [Poppins](https://fonts.google.com/specimen/Poppins)
-- Weights: 400i, 700, 800i
+- Family: [Red Hat Text](https://fonts.google.com/specimen/Red+Hat+Text)
+- Weights: 700
+
+## Icons
+
+We provide the required social icons. But, if you prefer, you can use a font icon library. Some suggestions can be found below:
+
+- [Font Awesome](https://fontawesome.com)
+- [IcoMoon](https://icomoon.io)
+- [Ionicons](https://ionicons.com)
